@@ -124,7 +124,7 @@ bibliomegram <- function(cits, pubs, name, drop_top = 0, max_age = 50) {
 
 # case study --------------------------------------------------------------
 
-user <- "F_Go4V4AAAAJ"
+user <- "fYQY8Y8AAAAJ"
 (profile <- scholar::get_profile(user))
 pubs <- get_publications(user)
 summary(pubs)
