@@ -1,6 +1,6 @@
 TODO.org
-*.Rproj
 .Rproj.user
+*.Rproj
 .Rhistory
 *~
 .emacs.desktop
